@@ -5,9 +5,13 @@
 
 I recently switched careers and have big interest in technology/IT, fixing existing or new problems and learning to fix complex tasks or challenges.
 
+---
+
 ### Objective
 
 My career path with KPN woke my interest in cybersecurity to become and cybersecurity analist, it motivates me to keep important data safe and be a value to an organisation or company.
+
+---
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
