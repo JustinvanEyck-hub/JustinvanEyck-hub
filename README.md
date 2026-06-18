@@ -2,7 +2,8 @@
 # My name is Justin,
 
 ---   
-    <img src="https://img.shields.io/badge/-linkedin (https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=(https://www.linkedin.com/in/justin-eyck-38b1a5237 />  
+
+<a href="https://www.linkedin.com/in/justin-eyck-38b1a5237"/> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I recently switched careers and have big interest in technology/IT, fixing existing or new problems and learning to fix complex tasks or challenges.
 
