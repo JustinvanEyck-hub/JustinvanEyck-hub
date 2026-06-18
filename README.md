@@ -2,6 +2,7 @@
 # My name is Justin,
 
 ---   
+<img src="https://www.linkedin.com/in/justin-eyck-38b1a5237/" /> 
 
 I recently switched careers and have big interest in technology/IT, fixing existing or new problems and learning to fix complex tasks or challenges.
 
